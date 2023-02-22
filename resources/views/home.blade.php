@@ -176,7 +176,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <div class="php-email-form">
 
                             <h3>Quero Ser Parceiro Veidi</h3>
-                            <p>Se está interessado em ser parceiro da Veidi Portugal, envie-nos todos os requisitos para poder ser analisado pela Veidi Portugal.<br>Do que está à espera para a tua empresa ter mais lucros?
+                            <p>Se está interessado em ser parceiro da Veidi Portugal, envie-nos todos os requisitos para poder ser analisado pela Veidi Portugal.<br>Do que está à espera para a sua empresa ter mais lucros?
                             </p>
 
 

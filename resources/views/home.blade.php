@@ -183,7 +183,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
 
                             <div class="col-md-12 text-center">
-                                <button onclick="location.href='mailto:daniel.dias@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Ser Parceiro Veidi</button>
+                                <button type="submit" onclick="location.href='mailto:daniel.dias@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Ser Parceiro Veidi</button>
                             </div>
 
 

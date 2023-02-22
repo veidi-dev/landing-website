@@ -7,11 +7,11 @@
     <meta itemprop="name" content="Veidi - Confiança e velocidade na entrega do seu futuro">
     <meta itemprop="description" content="A Veidi Portugal está neste momento aceitar parceiros para a sua nova operação na Zona da grande Lisboa, Grande Porto e Região do Alvarve.
 Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão.">
-    <meta itemprop="image" content="https://www.veidi.pt/assets/img/veidi.png">
+    <meta itemprop="image" content="https://www.veidi.pt/assets/img/hero-carousel/carousel1.jpeg">
     <meta property="og:title" content="Veidi - Confiança e velocidade na entrega do seu futuro" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.veidi.pt/" />
-    <meta property="og:image" content="https://www.veidi.pt/assets/img/veidi.png" />
+    <meta property="og:image" content="https://www.veidi.pt/assets/img/hero-carousel/carousel1.jpeg" />
     <meta property="og:description" content="A Veidi Portugal está neste momento aceitar parceiros para a sua nova operação na Zona da grande Lisboa, Grande Porto e Região do Alvarve.
 Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." />
     <title>Veidi</title>

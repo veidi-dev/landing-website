@@ -176,14 +176,13 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <div class="php-email-form">
 
                             <h3>Quero Ser Parceiro Veidi</h3>
-                            <p>Se estás interessado em ser parceiro da Veidi Portugal, deixe o seu contacto e entramos
-                                logo em contacto consigo.<br>Do que estás à espera para a tua empresa ter mais lucros?
+                            <p>Se estás interessado em ser parceiro da Veidi Portugal, envia todos os requisitos para podermos analisarmos.<br>Do que estás à espera para a tua empresa ter mais lucros?
                             </p>
 
 
 
                             <div class="col-md-12 text-center">
-                                <button type="submit" onclick="location.href='mailto:daniel.dias@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Ser Parceiro Veidi</button>
+                                <button type="submit" onclick="location.href='mailto:daniel.dias@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Tornar-me Parceiro da Veidi</button>
                             </div>
 
 

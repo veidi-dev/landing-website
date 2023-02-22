@@ -24,6 +24,6 @@ class HomeController extends Controller
         $parceiro->email =  $request->email;
         $parceiro->phone   = $request->phone;
         $parceiro->save();
-		return  back()->with('success', 'Obrigado, pelo teu contacto!');
+		return  view('home')->with('success', 'Obrigado, pelo teu contacto!');
     }
 }

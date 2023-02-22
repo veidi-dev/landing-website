@@ -104,7 +104,8 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
         <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
-            <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/carousel2.jpeg)"></div>
+            <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/carousel2.jpeg)">
+            </div>
             <div class="carousel-item"
                 style="background-image: url(assets/img/hero-carousel/par-moviendo-sofa-casa-nueva.jpg)"></div>
             <div class="carousel-item"
@@ -137,7 +138,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <div class="our-story">
                             <h3></h3>
                             <p>A Veidi Portugal está neste momento a aceitar parceiros para a sua nova
-                            operação na Zona de Lisboa, Porto e do Alvarve.  </p>
+                                operação na Zona de Lisboa, Porto e do Alvarve. </p>
                             <ul>
                                 <li><i class="bi bi-check-circle"></i> <span>Carrinha própria min 10m<sup>3</sup></span>
                                 </li>
@@ -172,58 +173,21 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
                 <div class="row justify-content-between gy-4">
                     <div class="col-lg-12" data-aos="fade">
-                        <form action="/quero-ser-parceiro" method="post" class="php-email-form">
-                            @csrf
+                        <div class="php-email-form">
+
                             <h3>Quero Ser Parceiro Veidi</h3>
                             <p>Se estás interessado em ser parceiro da Veidi Portugal, deixe o seu contacto e entramos
                                 logo em contacto consigo.<br>Do que estás à espera para a tua empresa ter mais lucros?
                             </p>
-                            @if ($errors->any())
-                            <div class="alert alert-danger">
-                                <ul>
-                                    @foreach ($errors->all() as $error)
 
-                                    <li>{{ $error }}</li>
-                                    @endforeach
-                                </ul>
+
+
+                            <div class="col-md-12 text-center">
+                                <button onclick="location.href='mailto:daniel.dias@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Ser Parceiro Veidi</button>
                             </div>
-                            @endif
-                            @if (Session::get('erro'))
-                            <div class="alert alert-danger">
-                                <strong>{{Session::get('erro')}}</strong>
-                            </div>
-                            @endif
-                            @if (Session::get('success'))
-                            <div class="alert alert-success alert-block">
-                                <strong>{{Session::get('success')}}</strong>
-                            </div>
-                            @endif
-                            <div class="row gy-3">
 
-                                <div class="col-md-12">
-                                    <input type="text" name="nome" class="form-control" placeholder="Nome" required>
-                                </div>
 
-                                <div class="col-md-12 ">
-                                    <input type="email" class="form-control" name="email" placeholder="Email" required>
-                                </div>
-
-                                <div class="col-md-12">
-                                    <input type="text" class="form-control" name="phone"
-                                        placeholder="Número de telemóvel" required>
-                                </div>
-
-                                <!--<div class="col-md-12">
-                                    <textarea class="form-control" name="message" rows="6" placeholder="Message"
-                                        required></textarea>
-                                </div>-->
-
-                                <div class="col-md-12 text-center">
-                                    <button type="submit">Ser Parceiro Veidi</button>
-                                </div>
-
-                            </div>
-                        </form>
+                        </div>
                     </div><!-- End Quote Form -->
 
                 </div>

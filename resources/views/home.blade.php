@@ -182,6 +182,26 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                             <p>Se estás interessado em ser parceiro da Veidi Portugal, deixe o seu contacto e entramos
                                 logo em contacto consigo.<br>Do que estás à espera para a tua empresa ter mais lucros?
                             </p>
+                            @if ($errors->any())
+                            <div class="alert alert-danger">
+                                <ul>
+                                    @foreach ($errors->all() as $error)
+
+                                    <li>{{ $error }}</li>
+                                    @endforeach
+                                </ul>
+                            </div>
+                            @endif
+                            @if (Session::get('erro'))
+                            <div class="alert alert-danger">
+                                <strong>{{Session::get('erro')}}</strong>
+                            </div>
+                            @endif
+                            @if (Session::get('success'))
+                            <div class="alert alert-success alert-block">
+                                <strong>{{Session::get('success')}}</strong>
+                            </div>
+                            @endif
                             <div class="row gy-3">
 
                                 <div class="col-md-12">
@@ -203,11 +223,6 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                                 </div>-->
 
                                 <div class="col-md-12 text-center">
-                                    <div class="loading">Loading</div>
-                                    <div class="error-message"></div>
-                                    <div class="sent-message">Your quote request has been sent successfully. Thank you!
-                                    </div>
-
                                     <button type="submit">Ser Parceiro Veidi</button>
                                 </div>
 

@@ -26,5 +26,4 @@ class HomeController extends Controller
         $parceiro->save();
 		return  back()->with('success', 'Obrigado, pelo teu contacto!');
     }
-	
 }

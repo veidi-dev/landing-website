@@ -93,9 +93,8 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                 <div class="row justify-content-center">
                     <div class="col-lg-6 text-center">
                         <h2 data-aos="fade-down">Confiança e velocidade na entrega do seu futuro</h2>
-                        <p data-aos="fade-up">A Veidi Portugal está neste momento aceitar parceiros para a sua nova
-                            operação na Zona da grande Lisboa, Grande Porto e Região do Alvarve. <br>Se tens a tua
-                            Carrinha e Vontade de trabalhar e queres ser o teu patrão. </p>
+                        <p data-aos="fade-up">A Veidi Portugal está neste momento a aceitar parceiros para a sua nova
+                            operação na Zona de Lisboa, Porto e do Alvarve. <br> </p>
                         <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Ser
                             Parceiro Veidi</a>
                     </div>
@@ -105,9 +104,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
         <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
-            <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/carousel1.jpeg)">
-            </div>
-            <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/carousel2.jpeg)"></div>
+            <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/carousel2.jpeg)"></div>
             <div class="carousel-item"
                 style="background-image: url(assets/img/hero-carousel/par-moviendo-sofa-casa-nueva.jpg)"></div>
             <div class="carousel-item"
@@ -136,12 +133,11 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         style="background-image: url(assets/img/hero-carousel/carousel2.jpeg);"></div>
 
                     <div class="col-lg-7">
-                        <h2>O que preciso para ser parceiro da Veidi?</h2>
+                        <h2>Como me posso tornar parceiro?</h2>
                         <div class="our-story">
-                            <h3>Requisitos</h3>
-                            <p>A Veidi Portugal está neste momento aceitar parceiros para a sua nova operação na
-                                zona da Grande Lisboa, Grande Porto e Região do Alvarve. <br>Se tens a tua Carrinha e
-                                Vontade de trabalhar e queres ser o teu patrão. </p>
+                            <h3></h3>
+                            <p>A Veidi Portugal está neste momento a aceitar parceiros para a sua nova
+                            operação na Zona de Lisboa, Porto e do Alvarve.  </p>
                             <ul>
                                 <li><i class="bi bi-check-circle"></i> <span>Carrinha própria min 10m<sup>3</sup></span>
                                 </li>

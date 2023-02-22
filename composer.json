@@ -5,7 +5,7 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^8.0.25",
         "barryvdh/laravel-dompdf": "^2.0",
         "braintree/braintree_php": "^6.7",
         "codedge/laravel-fpdf": "^1.9",

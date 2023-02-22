@@ -4,13 +4,23 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
+    <meta itemprop="name" content="Veidi - Confiança e velocidade na entrega do seu futuro">
+    <meta itemprop="description" content="A Veidi Portugal está neste momento aceitar parceiros para a sua nova operação na Zona da grande Lisboa, Grande Porto e Região do Alvarve.
+Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão.">
+    <meta itemprop="image" content="https://www.veidi.pt/assets/img/veidi.png">
+    <meta property="og:title" content="Veidi - Confiança e velocidade na entrega do seu futuro" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.veidi.pt/" />
+    <meta property="og:image" content="https://www.veidi.pt/assets/img/veidi.png" />
+    <meta property="og:description" content="A Veidi Portugal está neste momento aceitar parceiros para a sua nova operação na Zona da grande Lisboa, Grande Porto e Região do Alvarve.
+Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." />
     <title>Veidi</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta content="A Veidi Portugal está neste momento aceitar parceiros para a sua nova operação na Zona da grande Lisboa, Grande Porto e Região do Alvarve.
+Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name="description">
+    <meta content="Veidi, App" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/veidi.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -168,7 +178,9 @@
                     <div class="col-lg-12" data-aos="fade">
                         <form action="forms/quote.php" method="post" class="php-email-form">
                             <h3>Quero Ser Parceiro Veidi</h3>
-                            <p>Se estás interessado em ser parceiro da Veidi Portugal, deixe o seu contacto e entramos logo em contacto consigo.<br>Do que estás à espera para a tua empresa ter mais lucros?</p>
+                            <p>Se estás interessado em ser parceiro da Veidi Portugal, deixe o seu contacto e entramos
+                                logo em contacto consigo.<br>Do que estás à espera para a tua empresa ter mais lucros?
+                            </p>
                             <div class="row gy-3">
 
                                 <div class="col-md-12">
@@ -180,7 +192,8 @@
                                 </div>
 
                                 <div class="col-md-12">
-                                    <input type="text" class="form-control" name="phone" placeholder="Numero de telemóvel" required>
+                                    <input type="text" class="form-control" name="phone"
+                                        placeholder="Numero de telemóvel" required>
                                 </div>
 
                                 <!--<div class="col-md-12">

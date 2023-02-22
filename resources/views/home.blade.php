@@ -146,7 +146,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                                         ajudante*</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Registo Criminal do condutor e
                                         ajudante*</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Documentação da Carrinha(Documeto único)</span></li>
+                                <li><i class="bi bi-check-circle"></i> <span>Documentação da Carrinha(Documento único)</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Ter actividade aberta</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Comprovativo de Iban</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Comprovativo de Morada</span></li>

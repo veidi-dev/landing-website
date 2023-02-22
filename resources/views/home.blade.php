@@ -94,7 +94,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                     <div class="col-lg-6 text-center">
                         <h2 data-aos="fade-down">Confiança e velocidade na entrega do seu futuro</h2>
                         <p data-aos="fade-up">A Veidi Portugal está neste momento a aceitar parceiros para a sua nova
-                            operação na Zona de Lisboa, Porto e do Algarve. <br> </p>
+                            operação na zona da grande Lisboa, Porto e do Algarve. <br> </p>
                         <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Ser
                             Parceiro Veidi</a>
                     </div>
@@ -138,7 +138,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <div class="our-story">
                             <h3></h3>
                             <p>A Veidi Portugal está neste momento a aceitar parceiros para a sua nova
-                                operação na Zona de Lisboa, Porto e do Alvarve. </p>
+                                operação na Zona de Lisboa, Porto e do Algarve. </p>
                             <ul>
                                 <li><i class="bi bi-check-circle"></i> <span>Carrinha própria min 10m<sup>3</sup></span>
                                 </li>
@@ -146,7 +146,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                                         ajudante*</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Registo Criminal do condutor e
                                         ajudante*</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Documentação da Carrinha</span></li>
+                                <li><i class="bi bi-check-circle"></i> <span>Documentação da Carrinha(Documeto único)</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Ter actividade aberta</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Comprovativo de Iban</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Comprovativo de Morada</span></li>
@@ -176,16 +176,15 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <div class="php-email-form">
 
                             <h3>Quero Ser Parceiro Veidi</h3>
-                            <p>Se estás interessado em ser parceiro da Veidi Portugal, envia todos os requisitos para podermos analisarmos.<br>Do que estás à espera para a tua empresa ter mais lucros?
+                            <p>Se está interessado em ser parceiro da Veidi Portugal, envie-nos todos os requisitos para poder ser analisado pela Veidi Portugal.<br>Do que está à espera para a tua empresa ter mais lucros?
                             </p>
 
 
 
                             <div class="col-md-12 text-center">
-                                <button type="submit" onclick="location.href='mailto:daniel.dias@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Tornar-me Parceiro da Veidi</button>
+                                <button type="submit" onclick="location.href='mailto:parceiros@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Tornar-me Parceiro da Veidi</button>
                             </div>
-
-
+                            
                         </div>
                     </div><!-- End Quote Form -->
 

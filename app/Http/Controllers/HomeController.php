@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Parceiro;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -15,6 +16,15 @@ class HomeController extends Controller
     public function index()
     {		
 		return view('home');
+    }
+    public function quero_ser_parceiro(Request $request)
+    {		
+        $parceiro = new Parceiro;
+        $parceiro->nome   = $request->nome;
+        $parceiro->email =  $request->email;
+        $parceiro->phone   = $request->phone;
+        $parceiro->save();
+		return  back()->with('success', 'Obrigado, pelo teu contacto!');
     }
 	
 }

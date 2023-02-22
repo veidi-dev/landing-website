@@ -15,4 +15,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::get('{slug}', [App\Http\Controllers\HomeController::class, 'cmspage'])->name('cmspage');
+Route::post('/quero-ser-parceiro', [App\Http\Controllers\HomeController::class, 'quero_ser_parceiro'])->name('quero_ser_parceiro');

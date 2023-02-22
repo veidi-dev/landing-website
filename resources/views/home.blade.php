@@ -176,7 +176,8 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
                 <div class="row justify-content-between gy-4">
                     <div class="col-lg-12" data-aos="fade">
-                        <form action="forms/quote.php" method="post" class="php-email-form">
+                        <form action="/quero-ser-parceiro" method="post" class="php-email-form">
+                            @csrf
                             <h3>Quero Ser Parceiro Veidi</h3>
                             <p>Se estás interessado em ser parceiro da Veidi Portugal, deixe o seu contacto e entramos
                                 logo em contacto consigo.<br>Do que estás à espera para a tua empresa ter mais lucros?
@@ -184,7 +185,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                             <div class="row gy-3">
 
                                 <div class="col-md-12">
-                                    <input type="text" name="name" class="form-control" placeholder="Nome" required>
+                                    <input type="text" name="nome" class="form-control" placeholder="Nome" required>
                                 </div>
 
                                 <div class="col-md-12 ">
@@ -193,7 +194,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
                                 <div class="col-md-12">
                                     <input type="text" class="form-control" name="phone"
-                                        placeholder="Numero de telemóvel" required>
+                                        placeholder="Número de telemóvel" required>
                                 </div>
 
                                 <!--<div class="col-md-12">

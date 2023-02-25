@@ -185,7 +185,9 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                                 <div class="col-xl-12 d-flex align-items-center">
                                     <div class="card-body">
                                         <h4 class="card-title">Veidi Renting</h4>
-                                        <p>Se precisa de uma carrinha mas não sabe por quanto tempo, este é o serviço que precisa! Os nossos parceiros estão disponíveis para o ajudar num serviço feito à hora.</p>
+                                        <p>Se precisa de uma carrinha mas não sabe por quanto tempo, este é o serviço
+                                            que precisa! Os nossos parceiros estão disponíveis para o ajudar num serviço
+                                            feito à hora.</p>
                                     </div>
                                 </div>
                             </div>
@@ -224,34 +226,6 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                             data-aos="fade-up" data-aos-delay="100">
                             <h3>PERGUNTAS FREQUENTES</h3>
                             <p class="fst-italic">
-                            <div class="accordion accordion-flush" id="accordionFlushExample">
-                                <div class="accordion-item">
-                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading1">
-                                        <a class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#flush-collapse1" aria-expanded="false"
-                                            aria-controls="flush-collapse1">
-                                            <div
-                                                style=" display:flex;align-items: center;justify-content: space-between;">
-                                                <ul>
-                                                    <li><i class="bi bi-check2-all"></i>Qual é o tempo total estimado de
-                                                        entrega?</li>
-
-                                                </ul>
-                                            </div>
-                                        </a>
-                                    </h3>
-                                    <div style="margin:0.8rem;" id="flush-collapse1" class="accordion-collapse collapse"
-                                        aria-labelledby="flush-heading1" data-bs-parent="#accordionFlushExample">
-                                        <div style="padding:1.4rem;" class="accordion-body">
-                                            <p>Sim! Todos os dias, ajudamos empresas em Lisboa, Porto e Algarve a tornar
-                                                a entrega rápida e fácil. Quer que a sua empresa tenha apenas algumas
-                                                entregas por semana ou entregas diárias , podemos satisfazer as suas
-                                                necessidades.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
 
                             <div class="accordion accordion-flush" id="accordionFlushExample">
                                 <div class="accordion-item">

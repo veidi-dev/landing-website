@@ -147,7 +147,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                                 <div class="col-xl-12 d-flex align-items-center">
                                     <div class="card-body">
                                         <h4 class="card-title">Veidi Express</h4>
-                                        <p>Ideal para transportes até 40km de distancia, permite-lhe transportar até
+                                        <p>Ideal para transportes até 40km de distância, permite-lhe transportar até
                                             três itens. Sem qualquer restrição de tempo e, caso o deseje, pode pedir um
                                             ajudante para o transporte.</p>
                                     </div>

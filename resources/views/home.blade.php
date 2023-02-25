@@ -95,7 +95,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <h2 data-aos="fade-down">Confiança e velocidade na entrega do seu futuro</h2>
                         <p data-aos="fade-up">A Veidi Portugal está neste momento a aceitar parceiros para a sua nova
                             operação na zona da grande Lisboa, Porto e do Algarve. <br> </p>
-                        <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Ser
+                        <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started">Ser
                             Parceiro Veidi</a>
                     </div>
                 </div>
@@ -124,7 +124,354 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
     </section><!-- End Hero Section -->
 
+
     <main id="main">
+
+        <section id="constructions" class="constructions">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-header">
+                    <h2>OS NOSSOS SERVIÇOS</h2>
+                    <p>Conheça os nossos variados serviços e escolha o que melhor se adequia à sua necessidade</p>
+                </div>
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card-item">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="card-bg" style="background-image: url(assets/img/veidi_express.jpeg);">
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 d-flex align-items-center">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Veidi Express</h4>
+                                        <p>Ideal para transportes até 40km de distancia, permite-lhe transportar até
+                                            três itens. Sem qualquer restrição de tempo e, caso o deseje, pode pedir um
+                                            ajudante para o transporte.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- End Card Item -->
+
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                        <div class="card-item">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="card-bg"
+                                        style="background-image: url(assets/img/veidi_long_haul.jpeg);">
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 d-flex align-items-center">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Veidi Long Haul</h4>
+                                        <p>Serviço pensado para transportes de longas distâncias. Basta agendar o seu
+                                            serviço e aguarde tranquilamente o transporte.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- End Card Item -->
+
+                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                        <div class="card-item">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="card-bg" style="background-image: url(assets/img/veidi_renting.jpeg);">
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 d-flex align-items-center">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Veidi Renting</h4>
+                                        <p>Se precisa de uma carrinha mas não sabe por quanto tempo, este é o serviço que precisa! Os nossos parceiros estão disponíveis para o ajudar num serviço feito à hora.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- End Card Item -->
+                </div>
+            </div>
+        </section>
+        <style>
+        .accordion-button::after {
+            margin: auto;
+            margin-right: inherit;
+        }
+
+        .accordion-button:not(.collapsed) {
+            color: black !important;
+            background-color: white;
+            box-shadow: inset 0 0 0 white;
+        }
+
+        .accordion-button {
+            padding: 0px !important;
+            align-items: flex-start !important;
+        }
+
+        .features .tab-pane h3 {
+            padding-bottom: 0px;
+        }
+        </style>
+        <section id="features" class="features section-bg">
+            <div class="container" data-aos="fade-up">
+
+                <div class="tab-pane active show" id="tab-1">
+                    <div class="row">
+                        <div class="col-lg-12 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
+                            data-aos="fade-up" data-aos-delay="100">
+                            <h3>PERGUNTAS FREQUENTES</h3>
+                            <p class="fst-italic">
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading1">
+                                        <a class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#flush-collapse1" aria-expanded="false"
+                                            aria-controls="flush-collapse1">
+                                            <div
+                                                style=" display:flex;align-items: center;justify-content: space-between;">
+                                                <ul>
+                                                    <li><i class="bi bi-check2-all"></i>Qual é o tempo total estimado de
+                                                        entrega?</li>
+
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </h3>
+                                    <div style="margin:0.8rem;" id="flush-collapse1" class="accordion-collapse collapse"
+                                        aria-labelledby="flush-heading1" data-bs-parent="#accordionFlushExample">
+                                        <div style="padding:1.4rem;" class="accordion-body">
+                                            <p>Sim! Todos os dias, ajudamos empresas em Lisboa, Porto e Algarve a tornar
+                                                a entrega rápida e fácil. Quer que a sua empresa tenha apenas algumas
+                                                entregas por semana ou entregas diárias , podemos satisfazer as suas
+                                                necessidades.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading2">
+                                        <a class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#flush-collapse2" aria-expanded="false"
+                                            aria-controls="flush-collapse2">
+                                            <div
+                                                style=" display:flex;align-items: center;justify-content: space-between;">
+                                                <ul>
+                                                    <li><i class="bi bi-check2-all"></i>Como fazer um pedido?</li>
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </h3>
+                                    <div style="margin:0.8rem;" id="flush-collapse2" class="accordion-collapse collapse"
+                                        aria-labelledby="flush-heading2" data-bs-parent="#accordionFlushExample">
+                                        <div style="padding:1.4rem;" class="accordion-body">
+                                            <p>Siga os passos para fazer um pedido: <br><br>
+
+                                                1. Insira o endereço para recolha e entrega
+                                                <br>
+                                                2. Pode optar por fazê-lo como um pedido imediato ou um pedido agendado
+                                                com base nas suas necessidades<br>
+                                                -> Pedido imediato: o motorista irá fazer a recolha num período máximo
+                                                de 30 minutos<br>
+                                                -> Pedido agendado: pode selecionar o horário de 30 minutos até 30
+                                                dias<br>
+                                                3. Escolha o tipo de serviço que pretende e selecione 1 de 3 serviços
+                                                disponíveis.
+                                                <br>
+                                                4. Se houver alguma informação de referência que queira fornecer ao
+                                                motorista, pode adicioná-la.
+                                                <br>
+                                                5. Confirme as informações de contato e selecione a sua forma de
+                                                pagamento.
+                                                <br>
+                                                6. Clique em "Fazer pedido" e nós tratamos de tudo com o motorista
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading3">
+                                        <a class=" accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#flush-collapse3" aria-expanded="false"
+                                            aria-controls="flush-collapse3">
+                                            <div
+                                                style=" display:flex;align-items: center;justify-content: space-between;">
+                                                <ul>
+                                                    <li><i class="bi bi-check2-all"></i>Como cancelar o pedido?</li>
+
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </h3>
+                                    <div style="margin:0.8rem;" id="flush-collapse3"
+                                        class=" accordion-collapse collapse" aria-labelledby="flush-heading3"
+                                        data-bs-parent="#accordionFlushExample">
+                                        <div style="padding:1.4rem;" class="accordion-body">
+                                            <p>
+                                                Para pedidos Veidi Express e Veidi Renting que ainda não foram
+                                                combinados com um motorista, poderá cancelar o pedido a qualquer
+                                                momento. <br>
+
+                                                Cancelamentos para os restantes pedidos depois de combinados com um
+                                                motorista aplica se uma taxa de cancelamento de 30 euros ao Cliente.<br>
+
+                                                As taxas de cancelamento em Veidi Long Haul são de 25% do valor caso o
+                                                cancelamento seja feito num período de 48 horas ou inferior. <br>
+                                                Se fizer o cancelamento com um periodo superior a 48 horas não se aplica
+                                                qualquer tipo de penalizacão.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading4">
+                                        <a class=" accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#flush-collapse4" aria-expanded="false"
+                                            aria-controls="flush-collapse4">
+                                            <div
+                                                style=" display:flex;align-items: center;justify-content: space-between;">
+                                                <ul>
+                                                    <li><i class="bi bi-check2-all"></i>O que pode a Veidi transportar?
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </h3>
+                                    <div style="margin:0.8rem;" id="flush-collapse4"
+                                        class=" accordion-collapse collapse" aria-labelledby="flush-heading4"
+                                        data-bs-parent="#accordionFlushExample">
+                                        <div style="padding:1.4rem;" class="accordion-body">
+                                            <p>
+                                                A Veidi pode transportar quase tudo. <br>
+                                                Desde mercadorias pequenas e frágeis a items grandes e volumosos,
+                                                oferecemos uma variedade de carrinhas e motoristas para fornecer
+                                                soluções de transporte rápidas e eficazes para particulares e empresas.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading5">
+                                        <a class=" accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#flush-collapse5" aria-expanded="false"
+                                            aria-controls="flush-collapse5">
+                                            <div
+                                                style=" display:flex;align-items: center;justify-content: space-between;">
+                                                <ul>
+                                                    <li><i class="bi bi-check2-all"></i>A Veidi Portugal faz entregas
+                                                        para empresas?
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </h3>
+                                    <div style="margin:0.8rem;" id="flush-collapse5"
+                                        class=" accordion-collapse collapse" aria-labelledby="flush-heading5"
+                                        data-bs-parent="#accordionFlushExample">
+                                        <div style="padding:1.4rem;" class="accordion-body">
+                                            <p>
+                                                Sim! Todos os dias, ajudamos empresas em Lisboa, Porto e Algarve a
+                                                tornar a entrega rápida e fácil. Quer a sua empresa tenha apenas algumas
+                                                entregas por semana ou entregas diárias , podemos satisfazer as suas
+                                                necessidades.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading6">
+                                        <a class=" accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#flush-collapse6" aria-expanded="false"
+                                            aria-controls="flush-collapse6">
+                                            <div
+                                                style=" display:flex;align-items: center;justify-content: space-between;">
+                                                <ul>
+                                                    <li><i class="bi bi-check2-all"></i>Qual o sector que a Veidi apoia?
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </h3>
+                                    <div style="margin:0.8rem;" id="flush-collapse6"
+                                        class=" accordion-collapse collapse" aria-labelledby="flush-heading6"
+                                        data-bs-parent="#accordionFlushExample">
+                                        <div style="padding:1.4rem;" class="accordion-body">
+                                            <p>
+                                                A Veidi ajuda particulares e empresas de uma ampla variedade de setores
+                                                com suas necessidades de entrega. De electrodomesticos, móveis,
+                                                materiais
+                                                de construção e muito mais. Temos as soluções de entrega e uma frota de
+                                                veículos sempre de prontidão para que em qualquer hora do dia, 365 dias
+                                                por ano tenha a solução para o seu transporte em minutos
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h3 style="margin:0.8rem;" class="accordion-header" id="flush-heading7">
+                                        <a class=" accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#flush-collapse7" aria-expanded="false"
+                                            aria-controls="flush-collapse7">
+                                            <div
+                                                style=" display:flex;align-items: center;justify-content: space-between;">
+                                                <ul>
+                                                    <li><i class="bi bi-check2-all"></i>Qual é o tempo total estimado de
+                                                        entrega?
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+                                        </a>
+                                    </h3>
+                                    <div style="margin:0.8rem;" id="flush-collapse7"
+                                        class=" accordion-collapse collapse" aria-labelledby="flush-heading7"
+                                        data-bs-parent="#accordionFlushExample">
+                                        <div style="padding:1.4rem;" class="accordion-body">
+                                            <p>
+                                                Depois que um pedido ser correspondido com sucesso, poderá ver o horário
+                                                estimado de chegada no mapa. Depois que o motorista carregue a sua
+                                                entrega, o horário anunciado será o horário estimado de chegada ao local
+                                                de entrega. <br><br>
+                                                <b>Observacões:</b> O horário anunciado é apenas para referência e pode
+                                                ser
+                                                alterado devido a motivos imprevisíveis, como problemas de trânsito e
+                                                condições meteorológicas.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
         <section id="about" class="about">
             <div class="container" data-aos="fade-up">
 
@@ -143,17 +490,18 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                                 <li><i class="bi bi-check-circle"></i> <span>Carrinha própria min 10m<sup>3</sup></span>
                                 </li>
                                 <li><i class="bi bi-check-circle"></i> <span> Identificação do condutor e
-                                        ajudante*</span></li>
+                                        ajudante</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Registo Criminal do condutor e
-                                        ajudante*</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Documentação da Carrinha(Documento único)</span></li>
+                                        ajudante</span></li>
+                                <li><i class="bi bi-check-circle"></i> <span>Documentação da Carrinha(Documento
+                                        único)</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Ter actividade aberta</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Comprovativo de Iban</span></li>
                                 <li><i class="bi bi-check-circle"></i> <span>Comprovativo de Morada</span></li>
                             </ul>
                             <p>De Momento A Veidi Portugal só está aceitar uma carrinha por cada empresa/actividade
                                 aberta.</p>
-                            <p><br>*Caso pretenda serviços com ajudante </p>
+                            <p><br> </p>
 
                             <!--  <div class="watch-video d-flex align-items-center position-relative">
                                 <i class="bi bi-play-circle"></i>
@@ -176,13 +524,17 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <div class="php-email-form">
 
                             <h3>Quero Ser Parceiro Veidi</h3>
-                            <p>Se está interessado em ser parceiro da Veidi Portugal, envie-nos todos os requisitos para poder ser analisado pela Veidi Portugal.<br>Do que está à espera para a sua empresa ter mais lucros?
+                            <p>Se está interessado em ser parceiro da Veidi Portugal, envie-nos todos os requisitos para
+                                poder ser analisado pela Veidi Portugal.<br>Do que está à espera para a sua empresa ter
+                                mais lucros?
                             </p>
 
 
 
                             <div class="col-md-12 text-center">
-                                <button type="submit" onclick="location.href='mailto:parceiros@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Tornar-me Parceiro da Veidi</button>
+                                <button type="submit"
+                                    onclick="location.href='mailto:parceiros@veidi.pt?subject=Tornar-me Parceiro da Veidi Portugal';">Tornar-me
+                                    Parceiro da Veidi</button>
                             </div>
 
                         </div>

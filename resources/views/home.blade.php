@@ -132,7 +132,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
 
                 <div class="section-header">
                     <h2>OS NOSSOS SERVIÇOS</h2>
-                    <p>Conheça os nossos variados serviços e escolha o que melhor se adequia à sua necessidade</p>
+                    <p>Conheça os nossos variados serviços e escolha o que melhor se adequa à sua necessidade</p>
                 </div>
 
                 <div class="row gy-4">

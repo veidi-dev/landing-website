@@ -97,11 +97,11 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                             operação na zona da grande Lisboa, Porto e do Algarve. <br> </p>
                         <div class="row">
                             <div class="col-6">
-                                <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started"><img
+                                <a data-aos="fade-up" data-aos-delay="200" href="https://web.veidi.pt/img/app-release.apk" class="btn-get-started"><img
                                         src="img/app/Google-Play-Logo1.png" style="height:2rem;" alt="">Driver</a>
                             </div>
                             <div class="col-6">
-                                <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started"><img
+                                <a data-aos="fade-up" data-aos-delay="200" href="img/app/app-release-customer.apk" class="btn-get-started"><img
                                         src="img/app/Google-Play-Logo1.png" style="height:2rem;" alt="">Cliente</a>
                             </div>
                         </div>

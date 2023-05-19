@@ -95,8 +95,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                         <h2 data-aos="fade-down">Confiança e velocidade na entrega do seu futuro</h2>
                         <p data-aos="fade-up">A Veidi Portugal está neste momento a aceitar parceiros para a sua nova
                             operação na zona da grande Lisboa, Porto e do Algarve. <br> </p>
-                        <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started">Ser
-                            Parceiro Veidi</a>
+                        <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started"><img src="img/app/Google-Play-Logo.png" style="height:4rem;" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -496,7 +495,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                 <div class="row justify-content-between gy-4">
                     <div class="col-lg-12" data-aos="fade">
                         <div class="php-email-form">
-
+                            
                             <h3>Quero Ser Parceiro Veidi</h3>
                             <p>Se está interessado em ser parceiro da Veidi Portugal, envie-nos todos os requisitos para
                                 poder ser analisado pela Veidi Portugal.<br>Do que está à espera para a sua empresa ter

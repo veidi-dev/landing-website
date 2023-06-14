@@ -101,7 +101,7 @@ Se tens a tua Carrinha e Vontade de trabalhar e queres ser o teu patrão." name=
                                         src="img/app/Google-Play-Logo1.png" style="height:2rem;" alt="">Driver</a>
                             </div>
                             <div class="col-md-6">
-                                <a data-aos="fade-up" data-aos-delay="200" href="img/app/app-customer.apk" class="btn-get-started"><img
+                                <a data-aos="fade-up" data-aos-delay="200" href="img/app/cliente-nova_versao.apk" class="btn-get-started"><img
                                         src="img/app/Google-Play-Logo1.png" style="height:2rem;" alt="">Cliente</a>
                             </div>
                         </div>
